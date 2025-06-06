@@ -50,13 +50,13 @@ This experience allowed me to apply classroom learning in a real development wor
 ## 📜 Certificate
 
 You can view my official internship certificate here:  
-📄 [Internship Certificate (PDF)]((https://drive.google.com/drive/folders/1DVTsz5pVu7jErk4ubuC8ttcKVkJhaKpX)
+📄 [Internship Certificate (PDF)](https://drive.google.com/file/d/1DVbdAMQVMXRv5JLB6AXPxwx2KTK7Z5b9/view?usp=drivesdk)
 
 ---
 
 ## 🌐 Project Access
 
-> 🚧 *Note: Live link available only if permitted by the company.*
+> 🚧 *Note: Live link available*
 
 🔗 [View Project](https://thephysioone.in/) 
 
